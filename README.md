@@ -2,7 +2,7 @@
 
 A web app that audits any website’s SEO, copy, conversion, brand, and mobile performance in under 60 seconds using AI.
 
-🔗 **Live Demo:** (joel-marketing-audit.streamlit.app)
+🔗 **Live Demo:** [joel-marketing-audit.streamlit.app]("joel-marketing-audit.streamlit.app")
 
 ## What It Does
 - Enter any website URL
